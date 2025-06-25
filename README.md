@@ -19,12 +19,6 @@
 4. **专属代理分流规则：** 自定义分流规则，实现个性化的分流模式；
 5. **更多功能等待发掘...**
 
-## 🎬 视频教程
-- **[自建订阅！CF-Workers-SUB 教你如何将多节点多订阅汇聚合并为一个订阅！](https://youtu.be/w6rRY4FDd58)**
-
-## 🤝 社区支持
-- Telegram 交流群: [@CMLiussss](https://t.me/CMLiussss)
-- 感谢 [Alice Networks](https://alicenetworks.net/) 提供的云服务器维持 [CM订阅转换服务](https://sub.cmliussss.com/)
 
 ## 📦 Pages 部署方法
 
