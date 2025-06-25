@@ -109,4 +109,4 @@
 
 
 # 🙏 致谢
-[Alice Networks LTD](https://alicenetworks.net/)，[mianayang](https://github.com/mianayang/myself/blob/main/cf-workers/sub/sub.js)、
+[Alice Networks LTD](https://alicenetworks.net/)，
